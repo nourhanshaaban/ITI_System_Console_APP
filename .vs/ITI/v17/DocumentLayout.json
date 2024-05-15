@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ITI_Test_Rep (1)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB5D667C-FAC7-4349-A12D-0A10E31C57C7}|ITI\\ITI.csproj|d:\\iti_test_rep (1)\\iti\\courses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB5D667C-FAC7-4349-A12D-0A10E31C57C7}|ITI\\ITI.csproj|solutionrelative:iti\\courses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB5D667C-FAC7-4349-A12D-0A10E31C57C7}|ITI\\ITI.csproj|d:\\iti_test_rep (1)\\iti\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB5D667C-FAC7-4349-A12D-0A10E31C57C7}|ITI\\ITI.csproj|solutionrelative:iti\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB5D667C-FAC7-4349-A12D-0A10E31C57C7}|ITI\\ITI.csproj|d:\\iti_test_rep (1)\\iti\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB5D667C-FAC7-4349-A12D-0A10E31C57C7}|ITI\\ITI.csproj|solutionrelative:iti\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB5D667C-FAC7-4349-A12D-0A10E31C57C7}|ITI\\ITI.csproj|d:\\iti_test_rep (1)\\iti\\courses.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EB5D667C-FAC7-4349-A12D-0A10E31C57C7}|ITI\\ITI.csproj|solutionrelative:iti\\courses.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB5D667C-FAC7-4349-A12D-0A10E31C57C7}|ITI\\ITI.csproj|d:\\iti_test_rep (1)\\iti\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB5D667C-FAC7-4349-A12D-0A10E31C57C7}|ITI\\ITI.csproj|solutionrelative:iti\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB5D667C-FAC7-4349-A12D-0A10E31C57C7}|ITI\\ITI.csproj|d:\\iti_test_rep (1)\\iti\\admin.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EB5D667C-FAC7-4349-A12D-0A10E31C57C7}|ITI\\ITI.csproj|solutionrelative:iti\\admin.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB5D667C-FAC7-4349-A12D-0A10E31C57C7}|ITI\\ITI.csproj|d:\\iti_test_rep (1)\\iti\\iaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB5D667C-FAC7-4349-A12D-0A10E31C57C7}|ITI\\ITI.csproj|solutionrelative:iti\\iaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB5D667C-FAC7-4349-A12D-0A10E31C57C7}|ITI\\ITI.csproj|d:\\iti_test_rep (1)\\iti\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB5D667C-FAC7-4349-A12D-0A10E31C57C7}|ITI\\ITI.csproj|solutionrelative:iti\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "student.cs",
+              "DocumentMoniker": "D:\\ITI_Test_Rep (1)\\ITI\\student.cs",
+              "RelativeDocumentMoniker": "ITI\\student.cs",
+              "ToolTip": "D:\\ITI_Test_Rep (1)\\ITI\\student.cs",
+              "RelativeToolTip": "ITI\\student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T21:26:14.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Courses.cs",
+              "DocumentMoniker": "D:\\ITI_Test_Rep (1)\\ITI\\Courses.cs",
+              "RelativeDocumentMoniker": "ITI\\Courses.cs",
+              "ToolTip": "D:\\ITI_Test_Rep (1)\\ITI\\Courses.cs",
+              "RelativeToolTip": "ITI\\Courses.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T21:26:05.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Courses.json",
+              "DocumentMoniker": "D:\\ITI_Test_Rep (1)\\ITI\\Courses.json",
+              "RelativeDocumentMoniker": "ITI\\Courses.json",
+              "ToolTip": "D:\\ITI_Test_Rep (1)\\ITI\\Courses.json",
+              "RelativeToolTip": "ITI\\Courses.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-15T21:25:59.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "D:\\ITI_Test_Rep (1)\\ITI\\Admin.cs",
+              "RelativeDocumentMoniker": "ITI\\Admin.cs",
+              "ToolTip": "D:\\ITI_Test_Rep (1)\\ITI\\Admin.cs",
+              "RelativeToolTip": "ITI\\Admin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T21:21:59.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Instructor.cs",
+              "DocumentMoniker": "D:\\ITI_Test_Rep (1)\\ITI\\Instructor.cs",
+              "RelativeDocumentMoniker": "ITI\\Instructor.cs",
+              "ToolTip": "D:\\ITI_Test_Rep (1)\\ITI\\Instructor.cs",
+              "RelativeToolTip": "ITI\\Instructor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T21:21:43.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IAccount.cs",
+              "DocumentMoniker": "D:\\ITI_Test_Rep (1)\\ITI\\IAccount.cs",
+              "RelativeDocumentMoniker": "ITI\\IAccount.cs",
+              "ToolTip": "D:\\ITI_Test_Rep (1)\\ITI\\IAccount.cs",
+              "RelativeToolTip": "ITI\\IAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T21:21:40.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\ITI_Test_Rep (1)\\ITI\\Account.cs",
+              "RelativeDocumentMoniker": "ITI\\Account.cs",
+              "ToolTip": "D:\\ITI_Test_Rep (1)\\ITI\\Account.cs",
+              "RelativeToolTip": "ITI\\Account.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T21:19:59.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Admin.json",
+              "DocumentMoniker": "D:\\ITI_Test_Rep (1)\\ITI\\Admin.json",
+              "RelativeDocumentMoniker": "ITI\\Admin.json",
+              "ToolTip": "D:\\ITI_Test_Rep (1)\\ITI\\Admin.json",
+              "RelativeToolTip": "ITI\\Admin.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-15T21:18:01.525Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

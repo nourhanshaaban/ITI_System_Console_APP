@@ -1,0 +1,82 @@
+C:/Users/DELL/source/repos/ITI/ITI/bin/Debug/net8.0/ITI.exe
+C:/Users/DELL/source/repos/ITI/ITI/bin/Debug/net8.0/ITI.deps.json
+C:/Users/DELL/source/repos/ITI/ITI/bin/Debug/net8.0/ITI.runtimeconfig.json
+C:/Users/DELL/source/repos/ITI/ITI/bin/Debug/net8.0/ITI.dll
+C:/Users/DELL/source/repos/ITI/ITI/bin/Debug/net8.0/ITI.pdb
+C:/Users/DELL/source/repos/ITI/ITI/bin/Debug/net8.0/Newtonsoft.Json.dll
+C:/Users/DELL/source/repos/ITI/ITI/obj/Debug/net8.0/ITI.csproj.AssemblyReference.cache
+C:/Users/DELL/source/repos/ITI/ITI/obj/Debug/net8.0/ITI.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/DELL/source/repos/ITI/ITI/obj/Debug/net8.0/ITI.AssemblyInfoInputs.cache
+C:/Users/DELL/source/repos/ITI/ITI/obj/Debug/net8.0/ITI.AssemblyInfo.cs
+C:/Users/DELL/source/repos/ITI/ITI/obj/Debug/net8.0/ITI.csproj.CoreCompileInputs.cache
+C:/Users/DELL/source/repos/ITI/ITI/obj/Debug/net8.0/ITI.csproj.CopyComplete
+C:/Users/DELL/source/repos/ITI/ITI/obj/Debug/net8.0/ITI.dll
+C:/Users/DELL/source/repos/ITI/ITI/obj/Debug/net8.0/refint/ITI.dll
+C:/Users/DELL/source/repos/ITI/ITI/obj/Debug/net8.0/ITI.pdb
+C:/Users/DELL/source/repos/ITI/ITI/obj/Debug/net8.0/ITI.genruntimeconfig.cache
+C:/Users/DELL/source/repos/ITI/ITI/obj/Debug/net8.0/ref/ITI.dll
+C:/Users/DELL/source/repos/ITI/ITI/bin/Debug/net8.0/NanoApi.JsonFile.dll
+C:/Users/DELL/source/repos/ITI/ITI/bin/Debug/net8.0/Newtonsoft.Json.Bson.dll
+C:/Users/DELL/source/repos/ITI/ITI/bin/Debug/net8.0/Newtonsoft.Json.Schema.dll
+/Users/hassan/Desktop/c/ITI/ITI/bin/Debug/net8.0/ITI
+/Users/hassan/Desktop/c/ITI/ITI/bin/Debug/net8.0/ITI.deps.json
+/Users/hassan/Desktop/c/ITI/ITI/bin/Debug/net8.0/ITI.runtimeconfig.json
+/Users/hassan/Desktop/c/ITI/ITI/bin/Debug/net8.0/ITI.dll
+/Users/hassan/Desktop/c/ITI/ITI/bin/Debug/net8.0/ITI.pdb
+/Users/hassan/Desktop/c/ITI/ITI/bin/Debug/net8.0/NanoApi.JsonFile.dll
+/Users/hassan/Desktop/c/ITI/ITI/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/hassan/Desktop/c/ITI/ITI/bin/Debug/net8.0/Newtonsoft.Json.Bson.dll
+/Users/hassan/Desktop/c/ITI/ITI/bin/Debug/net8.0/Newtonsoft.Json.Schema.dll
+/Users/hassan/Desktop/c/ITI/ITI/obj/Debug/net8.0/ITI.csproj.AssemblyReference.cache
+/Users/hassan/Desktop/c/ITI/ITI/obj/Debug/net8.0/ITI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hassan/Desktop/c/ITI/ITI/obj/Debug/net8.0/ITI.AssemblyInfoInputs.cache
+/Users/hassan/Desktop/c/ITI/ITI/obj/Debug/net8.0/ITI.AssemblyInfo.cs
+/Users/hassan/Desktop/c/ITI/ITI/obj/Debug/net8.0/ITI.csproj.CoreCompileInputs.cache
+/Users/hassan/Desktop/c/ITI/ITI/obj/Debug/net8.0/ITI.csproj.CopyComplete
+/Users/hassan/Desktop/c/ITI/ITI/obj/Debug/net8.0/ITI.dll
+/Users/hassan/Desktop/c/ITI/ITI/obj/Debug/net8.0/refint/ITI.dll
+/Users/hassan/Desktop/c/ITI/ITI/obj/Debug/net8.0/ITI.pdb
+/Users/hassan/Desktop/c/ITI/ITI/obj/Debug/net8.0/ITI.genruntimeconfig.cache
+/Users/hassan/Desktop/c/ITI/ITI/obj/Debug/net8.0/ref/ITI.dll
+/Users/hassan/Desktop/c/ITI/ITI_Test_Rep/ITI/bin/Debug/net8.0/ITI
+/Users/hassan/Desktop/c/ITI/ITI_Test_Rep/ITI/bin/Debug/net8.0/ITI.deps.json
+/Users/hassan/Desktop/c/ITI/ITI_Test_Rep/ITI/bin/Debug/net8.0/ITI.runtimeconfig.json
+/Users/hassan/Desktop/c/ITI/ITI_Test_Rep/ITI/bin/Debug/net8.0/ITI.dll
+/Users/hassan/Desktop/c/ITI/ITI_Test_Rep/ITI/bin/Debug/net8.0/ITI.pdb
+/Users/hassan/Desktop/c/ITI/ITI_Test_Rep/ITI/bin/Debug/net8.0/NanoApi.JsonFile.dll
+/Users/hassan/Desktop/c/ITI/ITI_Test_Rep/ITI/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/hassan/Desktop/c/ITI/ITI_Test_Rep/ITI/bin/Debug/net8.0/Newtonsoft.Json.Bson.dll
+/Users/hassan/Desktop/c/ITI/ITI_Test_Rep/ITI/bin/Debug/net8.0/Newtonsoft.Json.Schema.dll
+/Users/hassan/Desktop/c/ITI/ITI_Test_Rep/ITI/obj/Debug/net8.0/ITI.csproj.AssemblyReference.cache
+/Users/hassan/Desktop/c/ITI/ITI_Test_Rep/ITI/obj/Debug/net8.0/ITI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hassan/Desktop/c/ITI/ITI_Test_Rep/ITI/obj/Debug/net8.0/ITI.AssemblyInfoInputs.cache
+/Users/hassan/Desktop/c/ITI/ITI_Test_Rep/ITI/obj/Debug/net8.0/ITI.AssemblyInfo.cs
+/Users/hassan/Desktop/c/ITI/ITI_Test_Rep/ITI/obj/Debug/net8.0/ITI.csproj.CoreCompileInputs.cache
+/Users/hassan/Desktop/c/ITI/ITI_Test_Rep/ITI/obj/Debug/net8.0/ITI.sourcelink.json
+/Users/hassan/Desktop/c/ITI/ITI_Test_Rep/ITI/obj/Debug/net8.0/ITI.csproj.CopyComplete
+/Users/hassan/Desktop/c/ITI/ITI_Test_Rep/ITI/obj/Debug/net8.0/ITI.dll
+/Users/hassan/Desktop/c/ITI/ITI_Test_Rep/ITI/obj/Debug/net8.0/refint/ITI.dll
+/Users/hassan/Desktop/c/ITI/ITI_Test_Rep/ITI/obj/Debug/net8.0/ITI.pdb
+/Users/hassan/Desktop/c/ITI/ITI_Test_Rep/ITI/obj/Debug/net8.0/ITI.genruntimeconfig.cache
+/Users/hassan/Desktop/c/ITI/ITI_Test_Rep/ITI/obj/Debug/net8.0/ref/ITI.dll
+D:\ITI_Test_Rep (1)\ITI\bin\Debug\net8.0\ITI.exe
+D:\ITI_Test_Rep (1)\ITI\bin\Debug\net8.0\ITI.deps.json
+D:\ITI_Test_Rep (1)\ITI\bin\Debug\net8.0\ITI.runtimeconfig.json
+D:\ITI_Test_Rep (1)\ITI\bin\Debug\net8.0\ITI.dll
+D:\ITI_Test_Rep (1)\ITI\bin\Debug\net8.0\ITI.pdb
+D:\ITI_Test_Rep (1)\ITI\bin\Debug\net8.0\NanoApi.JsonFile.dll
+D:\ITI_Test_Rep (1)\ITI\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\ITI_Test_Rep (1)\ITI\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\ITI_Test_Rep (1)\ITI\bin\Debug\net8.0\Newtonsoft.Json.Schema.dll
+D:\ITI_Test_Rep (1)\ITI\obj\Debug\net8.0\ITI.csproj.AssemblyReference.cache
+D:\ITI_Test_Rep (1)\ITI\obj\Debug\net8.0\ITI.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI_Test_Rep (1)\ITI\obj\Debug\net8.0\ITI.AssemblyInfoInputs.cache
+D:\ITI_Test_Rep (1)\ITI\obj\Debug\net8.0\ITI.AssemblyInfo.cs
+D:\ITI_Test_Rep (1)\ITI\obj\Debug\net8.0\ITI.csproj.CoreCompileInputs.cache
+D:\ITI_Test_Rep (1)\ITI\obj\Debug\net8.0\ITI.sourcelink.json
+D:\ITI_Test_Rep (1)\ITI\obj\Debug\net8.0\ITI.csproj.Up2Date
+D:\ITI_Test_Rep (1)\ITI\obj\Debug\net8.0\ITI.dll
+D:\ITI_Test_Rep (1)\ITI\obj\Debug\net8.0\refint\ITI.dll
+D:\ITI_Test_Rep (1)\ITI\obj\Debug\net8.0\ITI.pdb
+D:\ITI_Test_Rep (1)\ITI\obj\Debug\net8.0\ITI.genruntimeconfig.cache
+D:\ITI_Test_Rep (1)\ITI\obj\Debug\net8.0\ref\ITI.dll

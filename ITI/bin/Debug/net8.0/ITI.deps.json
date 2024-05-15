@@ -1,0 +1,98 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ITI/1.0.0": {
+        "dependencies": {
+          "JsonFileDB": "0.8.8.2",
+          "Newtonsoft.Json": "13.0.3",
+          "Newtonsoft.Json.Bson": "1.0.2",
+          "Newtonsoft.Json.Schema": "3.0.15"
+        },
+        "runtime": {
+          "ITI.dll": {}
+        }
+      },
+      "JsonFileDB/0.8.8.2": {
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.3"
+        },
+        "runtime": {
+          "lib/net45/NanoApi.JsonFile.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Newtonsoft.Json/13.0.3": {
+        "runtime": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "13.0.0.0",
+            "fileVersion": "13.0.3.27908"
+          }
+        }
+      },
+      "Newtonsoft.Json.Bson/1.0.2": {
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.3"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.Bson.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.2.22727"
+          }
+        }
+      },
+      "Newtonsoft.Json.Schema/3.0.15": {
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.3"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.Schema.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.0.15.28029"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ITI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "JsonFileDB/0.8.8.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-bE4seFAlbfBrI95ze+teccGGX2a7Lz5AGwSNf/hrKlE7pVPllr9S9tbi2VAzuJnGE5NJ6/epiiNMUNy4ZO+B0Q==",
+      "path": "jsonfiledb/0.8.8.2",
+      "hashPath": "jsonfiledb.0.8.8.2.nupkg.sha512"
+    },
+    "Newtonsoft.Json/13.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-HrC5BXdl00IP9zeV+0Z848QWPAoCr9P3bDEZguI+gkLcBKAOxix/tLEAAHC+UvDNPv4a2d18lOReHMOagPa+zQ==",
+      "path": "newtonsoft.json/13.0.3",
+      "hashPath": "newtonsoft.json.13.0.3.nupkg.sha512"
+    },
+    "Newtonsoft.Json.Bson/1.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-QYFyxhaABwmq3p/21VrZNYvCg3DaEoN/wUuw5nmfAf0X3HLjgupwhkEWdgfb9nvGAUIv3osmZoD3kKl4jxEmYQ==",
+      "path": "newtonsoft.json.bson/1.0.2",
+      "hashPath": "newtonsoft.json.bson.1.0.2.nupkg.sha512"
+    },
+    "Newtonsoft.Json.Schema/3.0.15": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-O/RBoXYm93pJy/JF3vRJxISALxup8CxKrBGXAyd/pFGrCa9hnSeHq/rQqkTnnpOcvtQwcEDfMZ+R5h871XEO5A==",
+      "path": "newtonsoft.json.schema/3.0.15",
+      "hashPath": "newtonsoft.json.schema.3.0.15.nupkg.sha512"
+    }
+  }
+}

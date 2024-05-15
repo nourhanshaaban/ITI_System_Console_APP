@@ -1,0 +1,41 @@
+[
+  {
+    "Id": 1,
+    "Name": "Mohamed",
+    "Email": "mohamedhasen228@gmail.com",
+    "Phone": 1212469681,
+    "Address": "alex",
+    "Age": 25,
+    "UserName": "mohamedhasen227",
+    "Password": "123",
+    "Rule": "student",
+    "Path": "Student.json",
+    "Logged": false
+  },
+  {
+    "Id": 1,
+    "Name": "mohamed",
+    "Email": "123",
+    "Phone": 123123,
+    "Address": "asdasd",
+    "Age": 123123,
+    "UserName": "asdasd",
+    "Password": "123",
+    "Rule": "admin",
+    "Path": "Admin.json",
+    "Logged": false
+  },
+  {
+    "Id": 2,
+    "Name": "mohamed",
+    "Email": "asdas@adsda",
+    "Phone": 123123,
+    "Address": "sadsa",
+    "Age": 123123,
+    "UserName": "asdasd",
+    "Password": "123",
+    "Rule": "admin",
+    "Path": "Admin.json",
+    "Logged": false
+  }
+]
